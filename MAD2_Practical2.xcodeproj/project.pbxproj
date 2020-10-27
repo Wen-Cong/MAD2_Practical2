@@ -15,6 +15,7 @@
 		095CF5F22547B927003FBF8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 095CF5F02547B927003FBF8C /* LaunchScreen.storyboard */; };
 		095CF5FD2547B927003FBF8C /* MAD2_Practical2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095CF5FC2547B927003FBF8C /* MAD2_Practical2Tests.swift */; };
 		095CF6082547B927003FBF8C /* MAD2_Practical2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095CF6072547B927003FBF8C /* MAD2_Practical2UITests.swift */; };
+		095CF6192547BA42003FBF8C /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095CF6182547BA42003FBF8C /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		095CF6032547B927003FBF8C /* MAD2_Practical2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MAD2_Practical2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		095CF6072547B927003FBF8C /* MAD2_Practical2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAD2_Practical2UITests.swift; sourceTree = "<group>"; };
 		095CF6092547B927003FBF8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		095CF6182547BA42003FBF8C /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				095CF5EE2547B927003FBF8C /* Assets.xcassets */,
 				095CF5F02547B927003FBF8C /* LaunchScreen.storyboard */,
 				095CF5F32547B927003FBF8C /* Info.plist */,
+				095CF6182547BA42003FBF8C /* Friend.swift */,
 			);
 			path = MAD2_Practical2;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				095CF5EA2547B926003FBF8C /* ViewController.swift in Sources */,
 				095CF5E62547B926003FBF8C /* AppDelegate.swift in Sources */,
 				095CF5E82547B926003FBF8C /* SceneDelegate.swift in Sources */,
+				095CF6192547BA42003FBF8C /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
